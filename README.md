@@ -128,6 +128,10 @@ The website is responsive, clean, and functional:
 
 It introduces the developer, highlights work, and offers contact details.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0b82c969-63b2-4c53-a172-5a6f8f904a2f)
+
 The layout is mobile-friendly due to the responsive meta tag and centered content.
 
 The style is minimalist but effective for professional portfolios.
