@@ -130,7 +130,7 @@ It introduces the developer, highlights work, and offers contact details.
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/0b82c969-63b2-4c53-a172-5a6f8f904a2f)
+![Image](https://github.com/user-attachments/assets/3425061d-2010-4134-a270-80462a20b764)
 
 The layout is mobile-friendly due to the responsive meta tag and centered content.
 
