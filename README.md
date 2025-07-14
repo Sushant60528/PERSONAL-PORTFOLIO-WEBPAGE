@@ -98,7 +98,7 @@ It introduces the developer, highlights work, and offers contact details.
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/3425061d-2010-4134-a270-80462a20b764)
+<img width="1900" height="904" alt="Image" src="https://github.com/user-attachments/assets/01c74382-8c1d-4dc9-843c-5540ef74ae11" />
 
 The layout is mobile-friendly due to the responsive meta tag and centered content.
 
