@@ -7,9 +7,6 @@ The document begins with the <!DOCTYPE html> declaration, indicating it uses HTM
 The <html> tag sets the language to English using lang="en".
 
 
-
-2. Head Section:
-
 <meta charset="UTF-8"> ensures the document supports a wide range of characters.
 
 <meta name="viewport"...> enables responsive design for different devices.
@@ -22,7 +19,6 @@ A CSS file styles.css is linked for styling.
 
 3. Body Content: The body is divided into semantic sections for better readability and accessibility:
 
-Header:
 
 Contains the developer's name (<h1>Susanta dash>) and a navigation menu (<nav>).
 
@@ -45,17 +41,6 @@ Contact Section:
 
 Displays the developer’s email and a link to their GitHub profile.
 
-
-Footer:
-
-Contains a copyright.
-
-
-
-
-
-
----
 
 CSS Styling
 
@@ -104,11 +89,6 @@ Projects have a white background, padding, a left border, and spacing to separat
 
 The footer mirrors the header with similar background and text color, and centers the content.
 
-
-
-
-
----
 
 Overall Functionality
 
